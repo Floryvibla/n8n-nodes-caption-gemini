@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-caption-gemini",
-	"version": "0.1.1",
-	"description": "",
+	"version": "0.2.0",
+	"description": "download transcript of url videos in your n8n workflows",
 	"keywords": [
 		"n8n-community-node-package"
 	],
